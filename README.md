@@ -35,56 +35,38 @@
 
 ## 🧬 About us
 
-BE Club brings together students who want to explore **biotechnology**, **information technology**, and **innovation** as one connected future. We run events, publish content, and work on small projects together, all to help students pick up practical skills outside the classroom.
+BE Club brings together students who want to explore **biotechnology**, **information technology**, and **innovation** as one connected future. We run events, publish content, and support students as they build practical skills outside the classroom.
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🎯 Mission</h3>
-      Build a community where science and technology meet, so students can learn by doing and work across disciplines.
-    </td>
-    <td align="center" width="33%">
-      <h3>🤝 Community</h3>
-      Students from different backgrounds learning side by side, sharing ideas and helping each other grow.
-    </td>
-    <td align="center" width="33%">
-      <h3>🚀 Growth</h3>
-      Workshops, projects, and content that turn curiosity into real, practical skills.
-    </td>
-  </tr>
-</table>
+### 🎯 Mission
+
+Build a community where science and technology meet, so students can learn by doing and work across disciplines.
+
+### 🤝 Community
+
+Students from different backgrounds learn side by side, share ideas, and help each other grow.
+
+### 🚀 Growth
+
+Workshops, events, and educational content turn curiosity into real, practical skills.
 
 <br/>
 
 ## 🔭 What we explore
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 🧪 Biotechnology
 
-- 🏥 Medical & healthcare biotech
-- 🌾 Agricultural & food biotech
-- 🏭 Industrial biotech & fermentation
-- 🌍 Environmental biotech & clean energy
-- 🧫 Biomaterials & forensic biotech
-
-</td>
-    <td width="50%" valign="top">
+- 🏥 Medical and healthcare biotechnology
+- 🌾 Agricultural and food biotechnology
+- 🏭 Industrial biotechnology and fermentation
+- 🌍 Environmental biotechnology and clean energy
+- 🧫 Biomaterials and forensic biotechnology
 
 ### 💻 Information technology
 
 - 🤖 Artificial intelligence
-- 🧬 Bioinformatics & genomics
+- 🧬 Bioinformatics and genomics
 - 📊 Computational biology
-- ⚙️ Big-data analytics & lab automation
-
-</td>
-  </tr>
-</table>
-
-<div align="center">
+- ⚙️ Big-data analytics and laboratory automation
 
 ### ✨ Where they meet
 
@@ -95,81 +77,46 @@ Our favorite space is the one between both fields:
 <img src="https://img.shields.io/badge/Computational%20biology-0F9D74?style=flat-square" alt="Computational biology" />
 <img src="https://img.shields.io/badge/Data--driven%20biotech-0EA5E9?style=flat-square" alt="Data-driven biotech" />
 
-</div>
-
-<br/>
-
-## 🛠️ What we make
-
-| | What | Description |
-| :---: | :--- | :--- |
-| 🧩 | **[Projects](https://beclub.vercel.app/fields/projects.html)** | Student builds and hands-on interdisciplinary projects |
-| 📝 | **[Articles](https://beclub.vercel.app/fields/articles-list.html)** | Clear explainers and notes that make biotechnology easier to understand |
-| 🎙️ | **[Podcast](https://beclub.vercel.app/fields/podcast-list.html)** | Conversations and discussions about biotech and where it's heading |
-| 🎟️ | **Events** | Workshops and meetups to learn, share ideas, and connect |
-
 <br/>
 
 ## 🏛️ Our departments
 
-BE Club runs on four departments, each with its own role.
+BE Club runs on four departments, each with its own role:
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>🔬<br/>Bio+</h3>
-      <sub>Biotechnology activities and scientific initiatives</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>📣<br/>Marketing</h3>
-      <sub>Outreach, identity, and partnerships</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>💬<br/>Communication</h3>
-      <sub>Content and community storytelling</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🗂️<br/>Organization</h3>
-      <sub>Coordination and event delivery</sub>
-    </td>
-  </tr>
-</table>
+- **🔬 Bio+** — biotechnology activities and scientific initiatives
+- **📣 Marketing** — outreach, identity, and partnerships
+- **💬 Communication** — content and community storytelling
+- **🗂️ Organization** — coordination and event delivery
 
 <br/>
 
 ## 📂 This GitHub profile
 
-This is where BE Club shares its **educational resources, student projects, and small experiments** at the intersection of biology and technology.
+This is where BE Club shares its **educational resources, student work, and small experiments** at the intersection of biology and technology.
 
-<table>
-  <tr>
-    <td align="center">🎓 <b>Students</b><br/><sub>curious about science</sub></td>
-    <td align="center">🧫 <b>Biologists</b><br/><sub>curious about technology</sub></td>
-    <td align="center">📚 <b>Learners</b><br/><sub>curious about everything</sub></td>
-  </tr>
-</table>
+- 🎓 Students curious about science
+- 🧫 Biologists curious about technology
+- 📚 Learners curious about everything
 
-<div align="center"><sub>Everyone is welcome to explore and learn with us.</sub></div>
+Everyone is welcome to explore and learn with us.
 
 <br/>
 
 ## 🌐 Connect with us
 
-| Platform | Link |
-| :--- | :--- |
-| 🌍 **Website** | [beclub.vercel.app](https://beclub.vercel.app/) |
-| 📸 **Instagram** | [@b.e.club](https://www.instagram.com/b.e.club/) |
-| 📘 **Facebook** | [Biotechnology Engineering Club](https://www.facebook.com/BiotechnologyEngineeringClub) |
-| 🎵 **TikTok** | [@be.club15](https://www.tiktok.com/@be.club15) |
-| 💼 **LinkedIn** | [Biotechnology Engineering Club](https://www.linkedin.com/in/biotechnology-engineering-club-be-club-5019722b2) |
-| ✉️ **Email** | [beclub@ensbiotech.edu.dz](mailto:beclub@ensbiotech.edu.dz) |
-| 📍 **Location** | [ENSBiotech, Algeria](https://maps.app.goo.gl/JesLAAWrGoDaz5oU6) |
+- 🌍 **Website:** [beclub.vercel.app](https://beclub.vercel.app/)
+- 📸 **Instagram:** [@b.e.club](https://www.instagram.com/b.e.club/)
+- 📘 **Facebook:** [Biotechnology Engineering Club](https://www.facebook.com/BiotechnologyEngineeringClub)
+- 🎵 **TikTok:** [@be.club15](https://www.tiktok.com/@be.club15)
+- 💼 **LinkedIn:** [Biotechnology Engineering Club](https://www.linkedin.com/in/biotechnology-engineering-club-be-club-5019722b2)
+- ✉️ **Email:** [beclub@ensbiotech.edu.dz](mailto:beclub@ensbiotech.edu.dz)
+- 📍 **Location:** [ENSBiotech, Algeria](https://maps.app.goo.gl/JesLAAWrGoDaz5oU6)
 
 <br/>
 
 <div align="center">
 
-[**About the club**](https://beclub.vercel.app/about.html) · [**Projects**](https://beclub.vercel.app/fields/projects.html) · [**Articles**](https://beclub.vercel.app/fields/articles-list.html) · [**Podcast**](https://beclub.vercel.app/fields/podcast-list.html)
+[**About the club**](https://beclub.vercel.app/about.html) · [**Articles**](https://beclub.vercel.app/fields/articles-list.html) · [**Podcast**](https://beclub.vercel.app/fields/podcast-list.html)
 
 <br/>
 
