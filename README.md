@@ -1,65 +1,73 @@
-<div align="center">
-  <a href="https://beclub.vercel.app/">
-    <img src="https://beclub.vercel.app/pics/club-logo.webp" alt="BE Club logo" width="150" />
-  </a>
+# BE Club
 
-  # BE Club
+![BE Club logo](https://beclub.vercel.app/pics/club-logo.webp)
 
-  ### Biotechnology Engineering Club
+## Biotechnology Engineering Club
 
-  **Where biology meets code — and curiosity becomes real skills.**
+> **Where biology meets code — and curiosity becomes real skills.**
 
-  <p>
-    <a href="https://beclub.vercel.app/">Website</a> ·
-    <a href="https://beclub.vercel.app/about.html">About us</a> ·
-    <a href="https://beclub.vercel.app/fields/projects.html">Projects</a> ·
-    <a href="mailto:beclub@ensbiotech.edu.dz">Contact</a>
-  </p>
-</div>
+BE Club is the scientific student club of the **École Nationale Supérieure de Biotechnologie (ENSBiotech), Algeria**. We bring together students who want to explore biotechnology, information technology, research, and innovation as one connected future.
 
----
+- [Visit the website](https://beclub.vercel.app/)
+- [Learn about the club](https://beclub.vercel.app/about.html)
+- [Explore our projects](https://beclub.vercel.app/fields/projects.html)
+- [Contact us](mailto:beclub@ensbiotech.edu.dz)
 
-## About BE Club
+## Our mission
 
-BE Club is the scientific student club of the **École Nationale Supérieure de Biotechnologie (ENSBiotech), Algeria**.
-
-We bring together students passionate about **biotechnology** and **information technology** — two fields that together define the science of tomorrow. Our community develops practical skills in the lab and behind the keyboard through workshops, events, research projects, content, and peer collaboration.
-
-> **Our mission:** build a community where science and technology intersect, empowering students to learn, create, collaborate, and innovate across disciplines.
+To build a community where science and technology intersect — helping students develop practical skills, collaborate across disciplines, and turn curiosity into meaningful projects.
 
 ## What we explore
 
-| Biotechnology | Information Technology |
-| --- | --- |
-| Medical and healthcare biotechnology | Artificial intelligence |
-| Agricultural and food biotechnology | Software development |
-| Industrial biotechnology and fermentation | Bioinformatics and genomics |
-| Environmental biotechnology and clean energy | Computational biology |
-| Biomaterials and forensic biotechnology | Big-data analytics and lab automation |
+### Biotechnology
 
-We are especially interested in the space where these areas meet: **AI-powered precision medicine, genomics, CRISPR design software, computational biology, and data-driven research**.
+- Medical and healthcare biotechnology
+- Agricultural and food biotechnology
+- Industrial biotechnology and fermentation
+- Environmental biotechnology and clean energy
+- Biomaterials and forensic biotechnology
+
+### Information technology
+
+- Artificial intelligence
+- Software development
+- Bioinformatics and genomics
+- Computational biology
+- Big-data analytics and laboratory automation
+
+### Where they meet
+
+Our strongest interest is the space between both fields:
+
+**AI-powered precision medicine · genomics · CRISPR design · computational biology · data-driven research**
 
 ## What we make
 
-- **Hands-on projects** — lab experiments, software tools, research prototypes, and interdisciplinary builds
-- **Articles** — accessible explainers and notes about discoveries, technologies, and challenges in biotechnology
-- **Podcast conversations** — biotech deep-dives, expert interviews, and discussions about the future of the field
-- **Events and workshops** — opportunities to learn, share ideas, and connect with students, academics, professionals, and industry leaders
+| Work | Description |
+| --- | --- |
+| **Projects** | Lab experiments, software tools, research prototypes, and interdisciplinary builds |
+| **Articles** | Clear explainers and notes that make biotechnology more accessible |
+| **Podcast** | Deep-dives, expert conversations, and discussions about the future of biotech |
+| **Events** | Workshops and opportunities to learn, share ideas, and connect |
 
-Explore the work on the [Projects page](https://beclub.vercel.app/fields/projects.html), read the [Articles](https://beclub.vercel.app/fields/articles-list.html), or listen to the [Podcast](https://beclub.vercel.app/fields/podcast-list.html).
+Read the [articles](https://beclub.vercel.app/fields/articles-list.html), listen to the [podcast](https://beclub.vercel.app/fields/podcast-list.html), or browse the [projects page](https://beclub.vercel.app/fields/projects.html).
 
-## Our community
+## Our departments
 
-BE Club includes four departments working together to support the club’s activities:
+BE Club is supported by four departments:
 
-- **Bio+** — scientific and biotechnology activities
+- **Bio+** — biotechnology activities and scientific initiatives
 - **Marketing** — outreach, identity, and partnerships
 - **Communication** — content and community storytelling
 - **Organization** — coordination and event delivery
 
-Whether you are a coder curious about biology, a biologist curious about data, or simply someone who loves learning, there is a place for you here.
+## This GitHub profile
 
-## Connect with us
+This space is for BE Club’s open-source experiments, educational resources, research-inspired prototypes, and tools at the intersection of biology and technology.
+
+Whether you are a coder curious about biology, a biologist curious about data, or simply someone who loves learning, you are welcome here.
+
+## Connect with BE Club
 
 - **Website:** [beclub.vercel.app](https://beclub.vercel.app/)
 - **Instagram:** [@b.e.club](https://www.instagram.com/b.e.club/)
@@ -69,15 +77,6 @@ Whether you are a coder curious about biology, a biologist curious about data, o
 - **Email:** [beclub@ensbiotech.edu.dz](mailto:beclub@ensbiotech.edu.dz)
 - **Location:** [ENSBiotech — Algeria](https://maps.app.goo.gl/JesLAAWrGoDaz5oU6)
 
-## This GitHub space
+---
 
-This profile is a home for BE Club’s open-source experiments, educational resources, research-inspired prototypes, and tools at the intersection of biology and technology.
-
-If you are interested in collaborating, sharing an idea, or joining the community, **[get in touch](mailto:beclub@ensbiotech.edu.dz)**.
-
-<div align="center">
-  <br />
-  <strong>Build the future with us — one experiment and one line of code at a time.</strong>
-  <br /><br />
-  <a href="https://beclub.vercel.app/about.html">Learn more about BE Club →</a>
-</div>
+**Build the future with us — one experiment and one line of code at a time.**
